@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3136
+
+Syntax for Beluga fles (http://www.cs.mcgill.ca/~complogic/beluga/).
+
+If colouring gets desynchronized, type <LocalLeader>s.
